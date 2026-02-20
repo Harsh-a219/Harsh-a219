@@ -15,14 +15,11 @@ I am passionate about building real-world applications and continuously improvin
 
 I enjoy working with **Python, Java, and C**, and I am actively seeking opportunities where I can contribute as a **Software Engineer** and grow professionally.
 
----
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- Python  
-- Java  
-- C  
+- Python    
 - JavaScript  
 
 ### 🌐 Web Technologies
@@ -49,7 +46,6 @@ I enjoy working with **Python, Java, and C**, and I am actively seeking opportun
 
 *(Detailed project repositories are available on my GitHub profile.)*
 
----
 
 ## 🎓 Education
 
@@ -60,11 +56,6 @@ Ganpat University, Mehsana, Gujarat
 **Class 12 (ISC Board)**  
 Swaranjali Public School, Haryana  
 
-**Class 10**  
-Haryana Board  
-
----
-
 ## 🤝 Soft Skills
 
 - Strong Communication  
@@ -72,15 +63,3 @@ Haryana Board
 - Leadership  
 - Public Speaking  
 - Time Management  
-
----
-
-## 🎯 Career Objective
-
-To obtain an entry-level **Software Engineer** position where I can apply my technical knowledge, enhance my skills, and contribute to impactful software solutions.
-
----
-
-
-
-
